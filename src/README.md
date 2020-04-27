@@ -7,4 +7,4 @@ to make them more reusable.
 
 Client (Knight,King,Queen,Troll) will be able to set weapon behavior dynamically.
 
-Note--> Example of this implementation has been taken from Book 'Head First Design Patterns'
+Note --> 'Example Taken From The book HEAD First Design Patterns'
